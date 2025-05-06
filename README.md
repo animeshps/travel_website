@@ -1,14 +1,25 @@
-live site:
-https://silver-profiterole-665ca2.netlify.app/
+- 👋 # Welcome to Web Crafters! 🎨
 
- ![Screenshot (575)](https://github.com/user-attachments/assets/ef5200e8-5972-49c5-ac92-2a1fba859cf2)
- 
-![Screenshot (576)](https://github.com/user-attachments/assets/061e8348-6ad1-41f7-928a-76be8dd5e1b1)
+Hi there! I'm **Lucky Rawat**, a passionate software developer with over 4 years of experience in the field. Welcome to my GitHub repository, where I share code and resources related to the content on my YouTube channel, **Web Crafters**.
 
-![Screenshot (577)](https://github.com/user-attachments/assets/cf1151f9-7379-49d8-b282-c807206698b6)
+## About the Channel
 
-![Screenshot (578)](https://github.com/user-attachments/assets/ff2d78b1-ddfa-4b72-ab05-e3310fed45e5)
+On **Web Crafters**, I share daily content focused on creating responsive UIs using Angular, React, and other modern web development technologies. Whether you're a beginner or an experienced developer, you'll find tutorials, tips, and tricks to enhance your skills and build amazing web applications.
 
-![Screenshot (579)](https://github.com/user-attachments/assets/07ccc969-3d2c-4eb2-9eb5-257f7005d73c)
+### What You'll Find Here
 
-![Screenshot (580)](https://github.com/user-attachments/assets/639dd399-08d5-4c25-88c0-803f678edd44)
+- **Source Code**: Access to the code demonstrated in my YouTube tutorials.
+- **Snippets**: Handy code snippets for various UI components.
+- **Projects**: Full-fledged projects to help you practice and improve your skills.
+
+## Support & Subscribe
+
+If you find my content helpful, please consider supporting the channel by subscribing and sharing the videos. Your support helps me continue creating valuable content for the community.
+
+- **YouTube**: [@Web.Crafters](https://www.youtube.com/@Web.Crafters)
+- **Instagram**: [web.crafters2024](https://www.instagram.com/web.crafters2024)
+- **Facebook**: [Web-Crafters/61564137717276](https://www.facebook.com/people/Web-Crafters/61564137717276/)
+
+Join our community, and let's code beautiful UIs together!
+
+Happy coding! 🚀
